@@ -26,27 +26,27 @@ This repository contains the links to the C++ code that was used for completing 
 
 ## Assignment 1
 
-The C++ code for assignment 1 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code. Topics - Time complexity and Recursion.
+The C++ code for assignment 1 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code/tree/main/Assignment1. Topics - Time complexity and Recursion.
 
 ## Assignment 2
 
-The C++ code for assignment 2 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code. Topics - Sorting and Arrays.
+The C++ code for assignment 2 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code/tree/main/Assignment2. Topics - Sorting and Arrays.
 
 ## Assignment 3
 
-The C++ code for assignment 3 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code. Topics - Stacks, Queues, Heaps and Priority queues.
+The C++ code for assignment 3 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code/tree/main/Assignment3. Topics - Stacks, Queues, Heaps and Priority queues.
 
 ## Assignment 4
 
-The C++ code for assignment 4 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code. Topics - Trees, Binary Search Trees, Red Black Trees.
+The C++ code for assignment 4 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code/tree/main/Assignment4. Topics - Trees, Binary Search Trees, Red Black Trees.
 
 ## Assignment 5
 
-The C++ code for assignment 5 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code. Topics - Graphs (Directed, Undirected)
+The C++ code for assignment 5 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code/tree/main/Assignment5. Topics - Graphs (Directed, Undirected)
 
 ## Assignment 6
 
-The C++ code for assignment 6 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code. Topics - Weighted Graphs
+The C++ code for assignment 6 can be found here: https://github.com/aditya-sarkar441/Cplusplus-code/tree/main/Assignment6. Topics - Weighted Graphs
 
 # License
 
